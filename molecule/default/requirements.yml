@@ -1,0 +1,4 @@
+---
+- name: zorlin.io500
+  src: https://github.com/Zorlin/ansible-role-io500
+  version: main
